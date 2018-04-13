@@ -1,0 +1,7 @@
+C:\Users\Jerald\source\repos\Lab1Part2-2\Lab1Part2-2\bin\Debug\Lab1Part2-2.exe.config
+C:\Users\Jerald\source\repos\Lab1Part2-2\Lab1Part2-2\bin\Debug\Lab1Part2-2.exe
+C:\Users\Jerald\source\repos\Lab1Part2-2\Lab1Part2-2\bin\Debug\Lab1Part2-2.pdb
+C:\Users\Jerald\source\repos\Lab1Part2-2\Lab1Part2-2\obj\Debug\Lab1Part2-2.csprojResolveAssemblyReference.cache
+C:\Users\Jerald\source\repos\Lab1Part2-2\Lab1Part2-2\obj\Debug\Lab1Part2-2.csproj.CoreCompileInputs.cache
+C:\Users\Jerald\source\repos\Lab1Part2-2\Lab1Part2-2\obj\Debug\Lab1Part2-2.exe
+C:\Users\Jerald\source\repos\Lab1Part2-2\Lab1Part2-2\obj\Debug\Lab1Part2-2.pdb
